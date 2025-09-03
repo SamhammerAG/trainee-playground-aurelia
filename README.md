@@ -18,8 +18,8 @@ Setup and write an lightweight single page application for user creation, deleti
 * Simple Client as view with [Aurelia 2](https://aurelia.io/)
 
 ### API
-- Get user endpoint & validation
-- Create user (firstName, lastName, email)
+- Get user
+- Create user (firstName, lastName, email) & validation
 - Delete user
  
 ### Client
