@@ -24,4 +24,5 @@ Setup and write an lightweight single page application for user creation, deleti
  
 ### Client
 * Display user
-* Create user & delete user
+* Create user
+* Delete user
