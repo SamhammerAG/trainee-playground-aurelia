@@ -26,3 +26,6 @@ Setup and write an lightweight single page application for user creation, deleti
 * Display user
 * Create user
 * Delete user
+
+## Troubleshooting
+* When using Windows with WSL, a random error sometimes occurs when mounting the volumes. This can be resolved by executing this command in WSL: `rm /mnt/wslg/runtime-dir/wayland-0*`
